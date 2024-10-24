@@ -22,3 +22,13 @@ http_archive(
     name = "bazel_skylib",
     urls = ["https://github.com/bazelbuild/bazel-skylib/releases/download/0.9.0/bazel_skylib-0.9.0.tar.gz"],
 )
+{
+    "order_id": 5,
+    "product_id": 24,
+    "quantity": 1,
+    "amount": 46.0,
+    "shipping": 10.0,
+    "tax": 2.0,
+    "shipping_address": "No.10 Jalan Besar"
+  }
+]
